@@ -1,0 +1,11 @@
+class Details {
+    public static void main(String[] args) {
+        String name= Mohan
+        String address=Phase one Technopark
+        String Location=Trivandrum
+        int age=60
+        String Profession=Tester
+
+    System.out.println("name"); 
+    }
+}
