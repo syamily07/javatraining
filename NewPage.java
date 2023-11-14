@@ -1,8 +1,8 @@
-Class NewPage{
- public static void main (string[] args)
- {
+Class NewPage {
+ public static void main(String[] args) {
+ 
 int number=1;
-system.out println(number);
+system.out.println(number);
 
  }
 }
