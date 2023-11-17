@@ -1,8 +1,9 @@
-Class NewPage {
+class NewPage {
  public static void main(String[] args) {
  
 int number=1;
-system.out.println(number);
+string name ="Syamily";
+System.out.println(number);
 
  }
 }
