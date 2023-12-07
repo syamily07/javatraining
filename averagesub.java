@@ -1,4 +1,4 @@
-public class averagesub {
+public class c {
 public int firstInteger;
 public int secondInteger;
 public int thirdInteger;
